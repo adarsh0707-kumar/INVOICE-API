@@ -1,0 +1,33 @@
+{
+  "name": "invoiceapi",
+  "version": "1.0.0",
+  "description": "mysql2 mysql express ",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "bun-types": "^1.1.37",
+    "cloudinary": "^2.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.4.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.7",
+    "typescript": "^5.7.2",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Adarsh Kumar",
+  "license": "ISC"
+}
